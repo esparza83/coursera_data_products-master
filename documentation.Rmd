@@ -1,0 +1,9 @@
+**Instructions**
+Level of happines is measure by the number of positive or negative comments you have. 
+
+1. In the input text describe how was your day, adding emotions like "good,bad" will increase or lower the score.  
+2. There are some options that will tweak your score in a positive way, you can select one or more.
+3. CLick on the "Reveal your Score button"   
+
+
+<50% needs some changes, >50%  and <100% Normal day, >100% Excellent day
